@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LOGO.png</file>
+        <file>ICON/Left.png</file>
+        <file>ICON/Right.png</file>
+        <file>ICON/Edit_Copy.png</file>
+        <file>ICON/Edit_Cut.png</file>
+        <file>ICON/Edit_Flush.png</file>
+        <file>ICON/Edit_InsertImage.png</file>
+        <file>ICON/Edit_InsertLink.png</file>
+        <file>ICON/Edit_Option.png</file>
+        <file>ICON/Edit_Paste.png</file>
+        <file>ICON/Edit_Redo.png</file>
+        <file>ICON/Edit_Search.png</file>
+        <file>ICON/Edit_Undo.png</file>
+        <file>ICON/File_NewFile.png</file>
+        <file>ICON/File_Open.png</file>
+        <file>ICON/File_Print.png</file>
+        <file>ICON/File_Save.png</file>
+        <file>ICON/File_SaveAs.png</file>
+        <file>ICON/Format_Big.png</file>
+        <file>ICON/Format_Blod.png</file>
+        <file>ICON/Format_Delete.png</file>
+        <file>ICON/Format_Italic.png</file>
+        <file>ICON/Format_OL.png</file>
+        <file>ICON/Format_Quote.png</file>
+        <file>ICON/Format_Small.png</file>
+        <file>ICON/Format_Sub.png</file>
+        <file>ICON/Format_Sup.png</file>
+        <file>ICON/Format_UL.png</file>
+        <file>ICON/Format_UnderLine.png</file>
+        <file>ICON/Help_Help.png</file>
+        <file>ICON/Left.png</file>
+        <file>ICON/Right.png</file>
+        <file>ICON/View_EditMode.png</file>
+        <file>ICON/View_FullScreen.png</file>
+        <file>ICON/View_Hor.png</file>
+        <file>ICON/View_ReadMode.png</file>
+        <file>ICON/View_Ver.png</file>
+        <file>ICON/File_Export.png</file>
+        <file>ICON/File_Import.png</file>
+        <file>ICON/Edit_CSS.png</file>
+        <file>ICON/Format_Code.png</file>
+    </qresource>
+</RCC>
