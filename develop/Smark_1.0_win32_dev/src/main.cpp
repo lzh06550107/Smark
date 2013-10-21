@@ -6,12 +6,10 @@
 int main(int argc, char** argv)
 {
     QApplication app(argc, argv);
+#ifdef WIN32
     QTextCodec::setCodecForLocale(QTextCodec::codecForName("GBK"));
-    ::gInitApp(argc, argv);
-//    qDebug() << gApp().Arg << endl
-//             << gApp().BinDir << endl
-//             << gApp().ShareDir << endl
-//             << gApp().CSS << endl;
+#endif
+    gInitApp(argc, argv);
 
     GuiWindowSmark wnd(NULL);
     if(argc > 1) {
@@ -20,6 +18,5 @@ int main(int argc, char** argv)
     } else {
         wnd.show();
     }
-
     return app.exec();
 }

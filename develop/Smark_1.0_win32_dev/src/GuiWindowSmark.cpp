@@ -80,6 +80,10 @@ void GuiWindowSmark::_aux_init_GUI(void)
 
     ui->EditCSS->hide();
     ui->FindGroup->hide();
+
+    ui->EditCSS->setAcceptDrops(false);
+    ui->EditMark->setAcceptDrops(false);
+    this->setAcceptDrops(true);
 }
 
 void GuiWindowSmark::_aux_enable_GUI(void)
@@ -312,7 +316,7 @@ void GuiWindowSmark::dropEvent(QDropEvent* event) {
     if(! urls.empty()) {
         QString path = urls.first().toLocalFile();
         if(! _aux_cancel_current_operation())
-            openMarkdownFile(path.toLocal8Bit().data());
+            openMarkdownFile(path);
     }
 }
 
