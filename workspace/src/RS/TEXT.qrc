@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>TEXT/preview.css</file>
-        <file>TEXT/print.css</file>
-    </qresource>
-</RCC>
