@@ -14,7 +14,7 @@
 ## Links
 
  + 主页 : [https://github.com/elerao/Smark](https://github.com/elerao/Smark)
- + Wiki : [https://github.com/elerao/Smark/wiki](https://github.com/elerao/Smark/wiki)
+ + Wiki : [https://github.com/elerao/Smark/wiki/Smark-Home](https://github.com/elerao/Smark/wiki/Smark-Home)
  + 联系 : [elerao.ao@gmail.com](elerao.ao@gmail.com)
 
 ## Install Smark
@@ -42,3 +42,16 @@
         $ make
 
  3. 把 `[./build]` 路径下的 `smark-dev` 移动到你的 `[bin]` 路径下即可
+
+## 运行截屏
+
+<p align="center">
+    <img src="https://raw.github.com/elerao/Smark/master/doc/file/win7-readme-read-mode.png" width="80%">
+    <p align="center">Win7 下阅读模式的 Smark 显示</p>
+</p>
+
+<p align="center">
+    <img src="https://raw.github.com/elerao/Smark/master/doc/file/ubuntu-readme-preview-ver-mode.png" width="80%">
+    <p align="center">Ubuntu  下垂直布局的预览模式的 Smark 显示</p>
+</p>
+ 
