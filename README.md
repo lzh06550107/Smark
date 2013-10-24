@@ -14,7 +14,7 @@
 ## Links
 
  + 主页 : [https://github.com/elerao/Smark](https://github.com/elerao/Smark)
- + Wiki : [https://github.com/elerao/Smark/wiki/Smark-Home](https://github.com/elerao/Smark/wiki/Smark-Home)
+ + Wiki : [https://github.com/elerao/Smark/wiki](https://github.com/elerao/Smark/wiki)
  + 联系 : [elerao.ao@gmail.com](elerao.ao@gmail.com)
 
 ## Install Smark
