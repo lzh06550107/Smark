@@ -22,7 +22,7 @@
 ### For Windows
 
  1. 下载 `[./install]` 路径下的 [smark_1.0_win32_portable.zip](./smark_1.0_win32_portable.zip) 解压到你想安装的路径下;
- 2. 运行 `smark.exe`，自己设置相关文件的打开方式!
+ 2. 运行 `smark.exe` 即可!
 
 ### For Anywhere
 
