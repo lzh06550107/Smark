@@ -21,10 +21,8 @@
 
 ### For Windows
 
- 1. 下载 `[./install]` 路径下的 [pandoc-1.11.1.msi](./pandoc-1.11.1.msi) 和 [smark_1.0_win32_portable.zip](./smark_1.0_win32_portable.zip);
- 2. 运行 [pandoc-1.11.1.msi](./pandoc-1.11.1.msi) 安装 `pandoc`;
- 2. 解压 [smark_1.0_win32_portable.zip](./smark_1.0_win32_portable.zip) 到你想安装的路径下;
- 3. 运行 `smark.exe`，自己设置相关文件的打开方式!
+ 1. 下载 `[./install]` 路径下的 [smark_1.0_win32_portable.zip](./smark_1.0_win32_portable.zip) 解压到你想安装的路径下;
+ 2. 运行 `smark.exe`，自己设置相关文件的打开方式!
 
 ### For Anywhere
 
